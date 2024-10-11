@@ -9,10 +9,10 @@
     
 <!-- GitHub Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Blaze34536&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=0000FF&title_color=0000FF">
+    <img src="https://github-readme-stats.vercel.app/api?username=Blaze34536&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ADD8E6&title_color=ADD8E6">
 </div>
 
 <!-- GitHub TopLangs -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze34536&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=0000FF&title_color=0000FF">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaze34536&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=0000FF&title_color=ADD8E6">
 </div>
