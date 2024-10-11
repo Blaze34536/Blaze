@@ -1,4 +1,4 @@
-<h1 align="center">Quentin</h1>
+<h1 align="center">Nihal</h1>
 
 <!-- Language Stack -->
 <div align="center">
